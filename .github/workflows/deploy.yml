@@ -1,4 +1,4 @@
-name: Automatyzacja dla kontenera z nginx i mysql :)
+name: Automatyzacja dla kontenera z nginx i mysql :))
 on:
   push:
     branches:
